@@ -1,22 +1,29 @@
-<h1 align="center">Hi, I'm Roberto Chavarria</h1>
-<h3 align="center">A passionate full-stack developer from Costa Rica</h3>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/rchavarria77.png" />
+   <h3 align="center">¡Hey 👋! Soy Roberto Chavarria 👨🏻‍💻</h3>
+</p>
+
+<p align="center">I'm a <strong>Full Stack JavaScript Developer</strong> with 4+ years of experience.</p>
+<p align="center">
+  <a href="https://www.instagram.com/rchavarria7" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/rchavarria_7" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+  <a href="https://discord.gg/1105651523968585860" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rchavarria77&label=Profile%20views&color=0e75b6&style=flat" alt="rchavarria77" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rchavarria_7" target="blank"><img src="https://img.shields.io/twitter/follow/rchavarria_7?logo=twitter&style=for-the-badge" alt="rchavarria_7" /></a> </p>
 
 - 💬 Ask me about **react, next.js, and node.js**
 
 - 📫 How to reach me **rchavarria_77@yahoo.com**
 
-- 📄 Know about my experiences [https://flowcv.me/roberto-chavarria](https://flowcv.me/roberto-chavarria)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rchavarria_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rchavarria_7" height="30" width="40" /></a>
-<a href="https://instagram.com/rchavarria7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rchavarria7" height="30" width="40" /></a>
-<a href="https://discord.gg/1105651523968585860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1105651523968585860" height="30" width="40" /></a>
-</p>
+- 📄 Know about my experiences <a href="https://flowcv.me/roberto-chavarria" target="blank">My Website</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Main Stack:</h4>
