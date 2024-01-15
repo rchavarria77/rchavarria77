@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" src="https://github.com/rchavarria77/rchavarria77/blob/main/main/assets/linkedIn_banner.gif" alt="Welcome!" width="300"/>
+   <img align="center" src="https://github.com/rchavarria77/rchavarria77/blob/main/main/assets/linkedIn_banner.gif" alt="Welcome!" width="100%"/>
    <h3 align="center">¡Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">! Soy Roberto Chavarria 👨🏻‍💻</h3>
 </p>
 
