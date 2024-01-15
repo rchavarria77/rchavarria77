@@ -1,6 +1,6 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/rchavarria77.png" />
-   <h3 align="center">¡Hey 👋! Soy Roberto Chavarria 👨🏻‍💻</h3>
+   <img align="center" src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/linkedIn_banner.gif" alt="Welcome!" width="300"/>
+   <h3 align="center">¡Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">! Soy Roberto Chavarria 👨🏻‍💻</h3>
 </p>
 
 <p align="center">I'm a <strong>Full Stack JavaScript Developer</strong> with 4+ years of experience.</p>
@@ -15,7 +15,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="midudev" height="28px" width="28px" />
   </a>
 </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rchavarria77&label=Profile%20views&color=0e75b6&style=flat" alt="rchavarria77" /> </p>
 
