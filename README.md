@@ -4,18 +4,16 @@
    <h3 align="center">Hey <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20">, I'm Roberto Chavarria! 👨🏻‍💻</h3>
 </p>
 
-<p align="center">I'm a <strong>Full Stack JavaScript Developer</strong> with 4+ years of experience.</p>
+<p align="center">I'm a <strong>Full Stack Developer</strong> with 4+ years of experience.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rchavarria77&label=Profile%20views&color=0e75b6&style=flat" alt="rchavarria77" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/rchavarria77?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/rchavarria77?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rchavarria77.repoName) <img src="https://komarev.com/ghpvc/?username=rchavarria77" alt="rchavarria77" />
 
-### 🛠 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 - 💬 Ask me about **React, NextJs, and NodeJs**
-
 - 📫 How to reach me **rchavarria77@outlook.com**
-
-- 📄 Know about my experiences <a href="https://flowcv.me/roberto-chavarria" target="blank">My Website</a>
-- 📝 Please have a look at my [CV](https://www.adityavsingh.com/resume.html) for more details about me.
+- 📄 Know about my experiences <a href="https://flowcv.me/roberto-chavarria" target="blank">here</a>.
+- 📝 Download my [CV](https://github.com/rchavarria77/rchavarria77/blob/main/main/resources/CV_Carlos_Roberto_Chavarria_Vega_EN.pdf) for more details about my experience.
 
 ---
 
@@ -39,7 +37,7 @@
 
 ---
 
-### :books: &nbsp;Next to learn
+### :books: &nbsp;Interested in Learning
 
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -49,7 +47,7 @@
 
 ---
 
-### 👨🏻‍💻 &nbsp;Github Stats
+### 📊 &nbsp;Github Stats
 
 <div style="display: flex; gap: 10px; align-items: start">
   <img src="https://github-readme-stats.vercel.app/api?username=rchavarria77&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="50%"/>
@@ -67,5 +65,11 @@
     <a href="https://twitter.com/rchavarria_7"><img src="https://img.shields.io/badge/-@rchavarria_7-111?style=flat&logo=x&logoColor=white"/></a>
     <a href="https://discord.gg/1105651523968585860"><img src="https://img.shields.io/badge/-@rchavarria7-7289d9?style=flat&logo=discord&logoColor=white"/></a>
 </p>
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
