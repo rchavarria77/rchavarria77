@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, NextJs, and NodeJs**
 - 📫 How to reach me **rchavarria77@outlook.com**
-- 📄 Know about my experiences <a href="https://flowcv.me/roberto-chavarria" target="blank">here</a>.
+- 📄 Know about my experiences <a href="https://flowcv.me/roberto-chavarria" target="_blank">here</a>.
 - 📝 Download my [CV](https://github.com/rchavarria77/rchavarria77/blob/main/main/resources/CV_Carlos_Roberto_Chavarria_Vega_EN.pdf) for more details about my experience.
 
 ---
@@ -59,11 +59,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/rchavarria7"><img src="https://img.shields.io/badge/-Roberto%20Chavarria%20Vega-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:rchavarria77@outlook.com"><img src="https://img.shields.io/badge/-rchavarria77@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://www.instagram.com/rchavarria7"><img src="https://img.shields.io/badge/-@rchavarria7-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-    <a href="https://twitter.com/rchavarria_7"><img src="https://img.shields.io/badge/-@rchavarria_7-111?style=flat&logo=x&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/1105651523968585860"><img src="https://img.shields.io/badge/-@rchavarria7-7289d9?style=flat&logo=discord&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/rchavarria7" target="_blank"><img src="https://img.shields.io/badge/-Roberto%20Chavarria%20Vega-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:rchavarria77@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-rchavarria77@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.instagram.com/rchavarria7" target="_blank"><img src="https://img.shields.io/badge/-@rchavarria7-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+    <a href="https://twitter.com/rchavarria_7" target="_blank"><img src="https://img.shields.io/badge/-@rchavarria_7-111?style=flat&logo=x&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/1105651523968585860" target="_blank"><img src="https://img.shields.io/badge/-@rchavarria7-7289d9?style=flat&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
