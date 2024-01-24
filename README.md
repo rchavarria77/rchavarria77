@@ -63,7 +63,7 @@
     <a href="mailto:rchavarria77@outlook.com"><img src="https://img.shields.io/badge/-rchavarria77@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.instagram.com/rchavarria7"><img src="https://img.shields.io/badge/-@rchavarria7-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
     <a href="https://twitter.com/rchavarria_7"><img src="https://img.shields.io/badge/-@rchavarria_7-111?style=flat&logo=x&logoColor=white"/></a>
-    <a href="https://discord.gg/1105651523968585860"><img src="https://img.shields.io/badge/-@rchavarria7-7289d9?style=flat&logo=discord&logoColor=white"/></a>
+    <a href="discordapp.com/users/1105651523968585860"><img src="https://img.shields.io/badge/-@rchavarria7-7289d9?style=flat&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
