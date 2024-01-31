@@ -6,7 +6,7 @@
 
 <p align="center">I'm a <strong>Full Stack Developer</strong> with 4+ years of experience.</p>
 
-![GitHub followers](https://img.shields.io/github/followers/rchavarria77?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/rchavarria77?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rchavarria77.repoName) <img src="https://komarev.com/ghpvc/?username=rchavarria77" alt="rchavarria77" />
+![GitHub followers](https://img.shields.io/github/followers/rchavarria77?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/rchavarria77?style=social) <img src="https://komarev.com/ghpvc/?username=rchavarria77" alt="rchavarria77" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
