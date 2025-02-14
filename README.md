@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, NextJs, and NodeJs**
 - 📫 How to reach me **rchavarria77@outlook.com**
-- 📄 Want to know more about me? <a href="https://rchavarria-portfolio.netlify.app/" target="_blank">Here is my Portfolio</a>.
+- 📄 Want to know more about me? <a href="[https://rchavarria-portfolio.netlify.app/](https://rchavarria-portfolio.vercel.app/en)" target="_blank">Here is my Portfolio</a>.
 - 📝 Download my <a href='https://github.com/rchavarria77/rchavarria77/blob/main/main/resources/CV_Carlos_Roberto_Chavarria_Vega_EN.pdf' download>CV</a> for more details about my experience.
 
 ---
